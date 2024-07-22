@@ -1,7 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am Utkarsh, a passionate frontend developer with a knack for crafting robust and scalable web applications. With an year’s of hands-on experience I have a proven track record of excellence, an insatiable curiosity, and an unyielding work ethic, I am poised to bring substantial value to any team I become a part of. I have honed my skills in front-end technologies like React and Angular. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experience.`;
 
@@ -12,7 +11,7 @@ export const EXPERIENCES = [
     year: "NOV 2023 - Present",
     role: "Associate Software Engineer",
     company: "Accenture",
-    description: `Trained and worked extensively in frontend (HTML, Tailwind CSS, JavaScript, React) and backend (Java, SQL Server) technologies, gaining a holistic view of the software development lifecycle. Acquired in-depth knowledge of data structures and algorithms, enhancing problem-solving skills and the ability to create efficient solutions. Strengthened professional skills, including writing and hosting minutes of meetings, and applying Agile methodologies for efficient project management. Proficient in Agile methodologies, contributing to collaborative project development, and experienced in conducting retrospectives for continuous
+    description: `Trained and worked extensively in frontend (HTML, Tailwind CSS, JavaScript, React) and backend (Java) technologies, gaining a holistic view of the software development lifecycle. Acquired in-depth knowledge of data structures and algorithms, enhancing problem-solving skills and the ability to create efficient solutions. Strengthened professional skills, including writing and hosting minutes of meetings, and applying Agile methodologies for efficient project management. Proficient in Agile methodologies, contributing to collaborative project development, and experienced in conducting retrospectives for continuous
     improvement.`,
     technologies: ["HTML", "Tailwind", "Javascript", "React.js", "Java", "SQL"],
   },
@@ -47,13 +46,6 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind", "React", "Framer Motion"],
-  },
-  {
-    title: "Employee Management System",
-    image: project4,
-    description:
-      "Created REST API using java spring boot to perform CRUD operation for the employees at the backend. Used React for the frontend UI part.",
-    technologies: ["HTML", "CSS", "React", "Java", "mySQL"],
   },
 ];
 
