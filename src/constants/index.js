@@ -32,6 +32,7 @@ export const PROJECTS = [
     description:
       "An application for searching movies which responds using OpenAI, and gives suggestions to users.",
     technologies: ["HTML", "CSS", "React", "OpenAI"],
+    link: "",
   },
   {
     title: "Food Ordering App",
@@ -39,6 +40,7 @@ export const PROJECTS = [
     description:
       "A Frontend focused food ordering website with features like product listing, shopping cart, and user authentication. Working with live data from swiggy's API",
     technologies: ["HTML", "Tailwind", "React"],
+    link: "https://swiggy-react-gules.vercel.app/",
   },
   {
     title: "Portfolio Website",
@@ -46,6 +48,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind", "React", "Framer Motion"],
+    link: "https://portfolio-rho-ten-58.vercel.app/",
   },
 ];
 
